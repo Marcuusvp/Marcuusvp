@@ -11,7 +11,7 @@
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.cdnlogo.com/logos/c/27/c.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
   <img align="center" alt="Sql" height="30" width="40" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png">
-  <img align="center" alt="Docker" height="30" width="40" src="https://w7.pngwing.com/pngs/505/151/png-transparent-using-docker-developing-and-deploying-software-with-containers-devops-computer-software-mongodb-docker-comic-computer-network-marine-mammal-logo.png">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   
   
 
